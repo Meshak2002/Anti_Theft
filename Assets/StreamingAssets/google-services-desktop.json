@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "552876456793",
+    "project_id": "antitheft-eb242",
+    "storage_bucket": "antitheft-eb242.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552876456793:android:fe3e12b1c4d512e977aa48",
+        "android_client_info": {
+          "package_name": "com.Zblaze.anti_theft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552876456793-oe18s7pmqjlf0farramu8ni8sltcsvcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVKXZcgpCJJLdwgAr3DkDZNmWOb4UJJNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552876456793-oe18s7pmqjlf0farramu8ni8sltcsvcm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
